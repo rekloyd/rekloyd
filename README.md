@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rekloyd
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning JS and how to build interactive and stunning websites.
+- 🌱 I’m currently learning Web Development to build user friendly and innovative WebApps.
 - 💞️ I’m looking to collaborate on new web based projects
 - 📫 Contact me in paumorillasrivera129@gmail.com
 
